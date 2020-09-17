@@ -122,7 +122,13 @@
                "children":[
                   {
                      "id":2347,
-                     "name":"Obat Pelangsing"
+                     "name":"Obat Pelangsing",
+                     "children": [
+                        {
+                            "id":2447,
+                            "name":"Obat Pelangsing Herbal"
+                        }
+                     ]
                   },
                   {
                      "id":2350,
